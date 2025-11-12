@@ -2,7 +2,7 @@
 
 Coding out loud is a way for developers to share their thinking process as they code. It's always valuable to learn how other people think about problem solving and it can be fun too :) 
 
-We are currently on a break but past events are listed below.
+The last event of the series happened in March 2025 - you're welcome to look through the archive below.
 
 ## Past Events:
 
